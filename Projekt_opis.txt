@@ -1,0 +1,9 @@
+Diagram związków encji do gromadzenia informacji na temat turnieju szachowego.
+Uwzględnia informacje o szachistach, sędziach, ich obywatelstwie, meczach szachowych,
+rundach, stołach oraz klubach szachowych.
+
+-jeden mecz szachowy odbywa sie przy jednym stole
+-jeden mecz szachowy ma dwoch szachistow oraz jednego sedziego
+-jeden sedzia moze zajmowac sie wieloma meczami
+-zwyciezca jest szachista z najwieksza iloscia zdobytych punktow
+
